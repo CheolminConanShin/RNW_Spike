@@ -1,0 +1,3 @@
+rootProject.name = 'crossplatformspike'
+
+include ':app'
